@@ -17,26 +17,26 @@ code {
     font-family: 'Monaco', monospace;
 }
 
-.water { 
+.water {
     margin-top: 10px;
-    font-size: 48pt; 
+    font-size: 48pt;
     font-family: 'Oswald';
-    margin-top: 20px; 
+    margin-top: 20px;
     text-align: center;
-    background: -webkit-linear-gradient(#b10fce, #452768);
+    background: -webkit-linear-gradient(#74c27e, #634578);
     text-decoration: none;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
- 
-.row { 
-    text-align: center;
-} 
 
-.img { 
+.row {
+    text-align: center;
+}
+
+.img {
     text-align: center;
     vertical-align: center;
-} 
-.img img { 
-    height: 64px; 
-}   
+}
+.img img {
+    height: 64px;
+}
